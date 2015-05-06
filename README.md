@@ -1,11 +1,11 @@
 <html>
 <head>
-<title> Welder's Library </title>
+<title> <b>Welder's Library</b> </title>
 </head>
 <body> 
 <h1> Welcome to Welder's Library </h1>
 <p>
-Link to Forum, link to most popular categories
+Link to Forum
 </p>
 </body>
 </html>

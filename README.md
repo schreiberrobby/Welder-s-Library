@@ -2,7 +2,7 @@
 <head>
 <title> Welder's Library </title>
 <style type= "text/css">
-body{
+body {
 background-color: #d2b48c;
 margin-left: 20%;
 margin right: 20%
